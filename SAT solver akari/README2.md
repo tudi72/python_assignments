@@ -1,0 +1,54 @@
+"C:\Users\Tudi\Desktop\AN 3 SEM 1\Python Course\akariProject\Scripts\python.exe" "C:/Users/Tudi/Desktop/AN 3 SEM 1/Python/akariProject/lightup.py"
+
+
+L W B 0 W L W B 0 W L B W 0 B B W B L B W W L B W L 2 L W W B L 2 L B L W B B L B B L 1 B B W B B L 
+B W L W W 2 1 L W W W B W W B W L W W B B L 3 L B B W 2 L W B B W W B 3 L W W B W B W W B L W W W W 
+B W W W W L B W W W W W W L W W 3 L W W W B B W B W W B B B W W L B B L W B B B L B W L W 3 L W W B 
+L W W B L 3 L W W B B W W W W W L W B W L 2 W 0 W W L B W L B L B W W W W W L B 3 L 1 W W L B W L B 
+2 L 2 L W W W B W 0 W W L W B L W W B W W L W W B W B W W W L 3 B B B B 2 L 2 W L W 0 W W W W L W W 
+B 1 W W W L W 0 W W B B 1 B L 2 B B L W W 1 W W B L 2 W W W W L W W B W L B 0 W W B W 1 L W 0 W 0 W 
+0 W L W W B W W W L B L W W W B L B B L 1 W L W B W L B L W W W W W W W W W W W W W W W W W W B 1 L 
+W L W B B W W L W W W 1 W L W W B W W W W W W W W W W L 2 B W B W W L W 1 L B L W 0 W W B B L W W B 
+B B B L W 0 W B W B W W L W B B L B L B W L B L W B W B 2 L B W W L B B W B B W W W L W W W W W W B 
+B W L 2 W W W L W 0 W L 2 W L 1 W L 3 1 L W W 2 L W W B L W W 1 W B W W L W W W B B W L W B B W W L 
+L 2 B B W W W W L W W B 0 W B B B W L W W B B W B B B L W W B L W W B B B B L W W W W 2 B W 0 W L W 
+B L B W 1 0 W B B W L 1 W B W W L B W L 2 L B W B B L B W W B 3 L W W B L 2 B 1 L W 1 L 1 W W W 1 B 
+0 W B W L B W L B W B B L B B L W 0 B B B W 1 L W W B L W W B L W W W W B L W B 2 L W W B L W W W W 
+W W L W 2 L W 1 W L B L B L W 1 W W B 0 W W W W W L W 1 W B B W 1 W L W W B B W W W L W 1 W W L W B 
+L 1 W W B W W W B W B B W W B B 0 W W B B W L W W W W B 1 W W B L W W 1 L 3 L B L B W W L 3 L W 0 B 
+B B 1 L B B W W 0 W B L W W W 0 W W L W W B 2 B L W 1 W L W W W W W B B B L W B B 0 W B 2 L W W W B 
+W L B W B W W L W B W W W W W W W L W W 0 W L B 1 B L B W L W W W W W 2 L W W B L W 2 L B W W B W L 
+1 W W B 1 L W W W W W W W 1 L W W 2 W W W L B W W L W W B 2 L W 1 W W L W B 1 W W B L B B W W W W B 
+L B W L B W W B L B L B L W B W W L B W L W W W W 1 W L B B W B L W W W B B L W B L W B W B 0 W L W 
+B 2 L 3 L W W W B L B B B B W W W W L W 1 W B L 2 B W 1 W L W W W W W B B B W W B B W W L W W W 1 B 
+W L 2 W W W W 1 L W W W W B L W W B B W W 0 B W L W W W W W B W W 1 L 1 W B B L W W W 0 W W W L 3 L 
+L W B L W W W B B W L W W W 1 W L 1 2 L W W W W W B W L W B W L W W B W W W L 3 L W W W 1 L 1 B L W 
+W B B 2 W W 2 L B B W 2 L B B L B W L 2 W L W B 1 L W W W B 0 W B L B W L 1 B B W B W L W W W B B W 
+0 W W L B B L W W W B L 3 L W 1 W W W W L W W 0 W W B B L W W W W B 2 L W W W W 1 L W W W W 1 W L B 
+W B L W W W W W B L B 1 W W L W 0 W B 0 W 1 L W W W W B W W B W L 2 L W W W B 0 W W W 1 B B L B 1 W 
+L B 1 W B 1 B W L W B 0 W W W L 1 W W 0 W W B W W W L W B W 1 B W B W W W L B 0 W B W L W W W W B L 
+3 L W B W L W W W 1 W W L W W B B L W W W W B B L W 1 W W W L W W W B W W B L 2 L W W W B B W L W B 
+L B 1 L W W W W B L B B B W W 1 L B W 1 0 W W W W B 0 W L W B L W 0 W B B L B W B B W B L W 0 1 2 L 
+W L B B L B L W W W B L W W W B W W W L 2 L W W 1 L W W W W W B B W W 0 W W W L W B 0 W W L W B L W 
+W 2 L W W W 2 W L W W 2 B W B L 2 W L B W W L W W W W 0 B L W B 1 L W W B W W W L W B W W W L 1 W W 
+1 B W W W W L W B 0 W L B B B W L W W W W W 3 L B B W 0 W 1 W L W W W W B B B 1 W 1 L W W W B W B B 
+L W W B B L B W L B W W B B W W W L 1 W B B L W B W W W W W L 3 L W W 2 L W 2 L B W 1 W W 1 L W B L 
+B W W W L B B W B W L B 2 L W W W 1 W L 1 1 W W W W L 3 L W W W B W W L B W L W W W W W W B B L W B 
+L W 1 W W 1 L 2 W L 2 W L W B W W W W W W L B W B B B L W 0 W W W W L W W W W W 1 L W W W B L 3 L W 
+1 W L W W 1 B L B B B L W B B B W W L W W W W B W L 1 B B W W W L W B W W L W B W B L W 0 B W 1 B B 
+B B W W B L W W B L 2 W 1 L B L W W 1 W L B 1 L W W W W W B 1 L W B B B L W B B W B W L W B W L 1 W 
+B L W W W 1 W W W W L B B W L W W 0 W B B W B W W W W W L W B B W W B L W 2 L B W L 2 W L B W W W L 
+W W W L W B L W W B B W L B W W W W L B L W W B L W W 0 W B B B 1 L W B B L B B W B L W B L W B W B 
+1 0 W W W B W 1 L W B 0 B L B W W W B B W W 2 L B 1 L 1 W B W L B W W L B W 0 W L B 1 W B B W B L B 
+L W W 1 L 2 0 W W L W W B B 1 0 W W L B W W L B B B W B B W L W W B B 2 W B B W W L W W W W B 1 2 L 
+W W W B B L W W B B W W W W L W B W B W W L 3 L W W B L W W 1 B W L B L W 1 L W B W W W L W B L W B 
+1 L W W W W W W W W W B B L B 1 L W W B W B B W B L W 2 L W 0 W B W B B L W W W 1 W 0 W 1 W L B B B 
+0 W W L B 1 L W 0 W W 1 L 3 L W W W 1 L 1 B W W W W W W W W W L W 2 L W W W B W L W W W W B 1 W W L 
+W B 0 W W W W W W W W W W W W W W L W W W W 0 W W B W W W B W 1 B L B W W L W 0 W W L W 0 W W W L 2 
+L B W 2 L W 1 L B W L 1 B L W 0 W W W W L W W B W 1 L W B W L W B B B L B 1 B 0 W W 1 W W L W W B B 
+W W W L W W W B W L W B W B B B B B 1 W W W L B W B W W L W W 1 L W W 3 L W W W B W 1 W L W W 1 L 2 
+0 W W B W L W 1 L 2 B W L W W W W 1 L B W L B W L W 1 L B W W B W W W L W W W 0 1 W L W 2 W B W W L 
+B L W W B W L W B W B B 3 L W B 0 W W L B 1 B W W 0 W B 2 L W W W B W W W W W W L W W 1 L W W W W B 
+W W L W W 0 W W 1 L B W L W B B W L B B L W 1 L 1 B L B L B B W W L W B W W B L W W W B 2 W W L W B 
+L B 2 L B B B L B 2 L B B W L B L B L B W L W B W L 3 L W W 1 L 1 W B B 1 L 1 W W 0 B W L W B 1 W L 
+Process finished with exit code 0
