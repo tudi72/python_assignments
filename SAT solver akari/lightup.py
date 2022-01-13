@@ -362,7 +362,7 @@ def solve_light_up(input2):
 
     return solution
 
-
+# print('Insert a light-up puzzle:\n')
 print(solve_light_up(input()))
 
 print("--- %s seconds ---" % (time.time() - start))
