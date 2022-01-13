@@ -21,7 +21,8 @@ bulbs. By adding more light bulbs, we obtain the only possible solution:
 ![img_2.png](img_2.png)
 
 
-#Input 
+# Input 
+
 An input is a string of length n × n. In our example, it is
 
         WWWBW0BWWWWWWWWWWW12WBWWW
@@ -30,7 +31,7 @@ where W is a white cell, B is a black cell without a number, and 0. . . 4 are bl
 cells containing the corresponding number. 
 A cell (x, y) is described by a character at the position (n · y) + x in the string, we start counting from zero.
 
-#Output 
+# Output 
 
 The output of your solver is the string you receive on the input where your
 placement of light bulbs is indicated by replacing the corresponding Ws by Ls.
@@ -41,7 +42,7 @@ Hence the correct output for our example is
 If no solution is possible, then it produce string
                     0
 
-Example: 
+# Example: 
 ```
 WWWBW0BWWWWWWWWWWW12WBWWW
 ```
