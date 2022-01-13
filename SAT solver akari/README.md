@@ -9,16 +9,16 @@ contain a number (0, 1, 2, 3, or 4) that specifies the exact number of light bul
 occurring in the adjacent cells (diagonal neighbors do not count).
 For example, if we have the following assignment,
 
-            ![img.png](img.png)
+![img.png](img.png)
 
 we may place two light bulbs as follows.
 
-            ![img_1.png](img_1.png)
+![img_1.png](img_1.png)
 
 They illuminate the yellow cells; one of the cells is illuminated by both light
 bulbs. By adding more light bulbs, we obtain the only possible solution:
 
-            ![img_2.png](img_2.png)
+![img_2.png](img_2.png)
 
 
 #Input 
@@ -37,7 +37,7 @@ placement of light bulbs is indicated by replacing the corresponding Ws by Ls.
 Hence the correct output for our example is
 
         WLWBW0BWLWWWWWLWWL12LBWWL
-        
+
 If no solution is possible, then it produce string
                     0
 
